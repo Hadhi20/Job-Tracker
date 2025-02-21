@@ -17,12 +17,16 @@ Backend:
 Flask
 MySQL
 🔧 Installation & Setup
+
+
 1️⃣ Clone the Repository
 sh
 Copy
 Edit
 git clone https://github.com/mhadhi/job-application-tracker.git
 cd job-application-tracker
+
+
 2️⃣ Install Frontend Dependencies
 sh
 Copy
@@ -30,6 +34,8 @@ Edit
 cd frontend
 npm install
 npm run dev
+
+
 3️⃣ Setup & Run Flask Backend
 sh
 Copy
@@ -37,6 +43,8 @@ Edit
 cd backend
 pip install -r requirements.txt
 python app.py
+
+
 4️⃣ Database Setup (MySQL)
 Create a MySQL database and update the config.py file with your credentials.
 
