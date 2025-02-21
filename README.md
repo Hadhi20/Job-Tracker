@@ -48,8 +48,4 @@ CREATE DATABASE job_tracker;
 Open the frontend in your browser (http://localhost:5173).
 Add job applications with company names, roles, statuses, and follow-up dates.
 View and manage your applications easily.
-📷 Screenshots
-(Add screenshots here if needed.)
 
-📜 License
-This project is open-source under the MIT License.
